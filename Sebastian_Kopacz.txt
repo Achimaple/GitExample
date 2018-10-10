@@ -1,0 +1,5 @@
+I'm the lead technical artist executive for GDC. 
+
+About me: I'm a 4th year computer science major with interests in computer graphics and AI.
+
+Fact: git bash is better than any git gui... you should use git bash comands
