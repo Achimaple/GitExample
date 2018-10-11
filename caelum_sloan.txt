@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 It was a very good year.
+=======
+traps r gay
+>>>>>>> 1af3597c950e4abdfba02bc80a2dc89481db50a3
