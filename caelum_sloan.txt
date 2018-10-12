@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 An a day keeps anyone away, if you throw it hard enough
 Yeah sure
 
@@ -39,3 +40,6 @@ traps r gay
 =======
 >>>>>>> 1af3597c950e4abdfba02bc80a2dc89481db50a3
 >>>>>>> 62d0e64e175530ef33b1646a8cd7549e07dc8d14
+=======
+It was a very good year.
+>>>>>>> 0012532adfb6275372c83a99001e97d0efed228d
